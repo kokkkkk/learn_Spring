@@ -10,3 +10,7 @@
   - Setter,Dependency Injection
 ### [1. AnnotationProject](https://github.com/kokkkkk/learn_Spring/tree/annotationProject)
   - Basic Annotation of Spring
+# Folders
+### [demoProject/demo](https://github.com/kokkkkk/learn_Spring/tree/main/demoProject/demo)
+  - Develop REST API for student class
+  - Connect Spring App with Postgres DB 
